@@ -8,5 +8,5 @@
               "wine64": "files/bin/wine64",
               "wineserver": "files/bin/wineserver"
           }
-      },
+    }
 ]
