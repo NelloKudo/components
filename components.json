@@ -22,12 +22,13 @@
             "features": {
                 "bundle": "Proton",
                 "need_dxvk": false,
-                "compact_launch": true,
+                "compact_launch": false,
                 "command": "python3 '%build%/proton' run",
                 "env": {
                     "STEAM_COMPAT_DATA_PATH": "%prefix%",
                     "STEAM_COMPAT_CLIENT_INSTALL_PATH": "",
-                    "SteamAppId": 0
+                    "SteamAppId": 0,
+                    "UMU_ID": 0
                 }
             }
         },
