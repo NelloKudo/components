@@ -17,6 +17,21 @@
             "title": "Soda"
         },
         {
+            "name": "spritz-proton",
+            "title": "Spritz-Proton",
+            "features": {
+                "bundle": "Proton",
+                "need_dxvk": false,
+                "compact_launch": true,
+                "command": "python3 '%build%/proton' run",
+                "env": {
+                    "STEAM_COMPAT_DATA_PATH": "%prefix%",
+                    "STEAM_COMPAT_CLIENT_INSTALL_PATH": "",
+                    "SteamAppId": 0
+                }
+            }
+        },
+        {
             "name": "ge-proton",
             "title": "GE-Proton",
             "features": {
