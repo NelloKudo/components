@@ -1,0 +1,12 @@
+[
+    {
+          "name": "proton-spritz-cachyos-10.0-20250807-slr-x86_64",
+          "title": "Spritz-Proton-250807",
+          "uri": "https://github.com/NelloKudo/proton-cachyos/releases/download/spritz-cachyos-10.0-20250807-slr/proton-spritz-cachyos-10.0-20250807-slr-x86_64.tar.xz",
+          "files": {
+              "wine": "files/bin/wine",
+              "wine64": "files/bin/wine64",
+              "wineserver": "files/bin/wineserver"
+          }
+      },
+]
