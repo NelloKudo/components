@@ -1,6 +1,10 @@
 {
     "wine": [
         {
+            "name": "spritz-wine-cachyos",
+            "title": "Spritz-Wine-CachyOS"
+        },
+        {
             "name": "spritz-wine-tkg",
             "title": "Spritz-Wine-TkG"
         },
